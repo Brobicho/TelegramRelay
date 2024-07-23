@@ -42,14 +42,14 @@ Create a `relay_config.json` file and fill it in with the config you need (see b
 
 ```python3 relay.py```
 
-- name : Used to bind custom functions and know what channel you're looking at in the config
-source_tg_channel_id : The source ID of the Telegram channel you want to relay
-- dest_tg_channel_id : If you also want to forward messages to one or multiple telegram channels, you can specify it [optionnal]
-- discord_webhook : The Discord webhook URL to relay the message
-- senders_ids : If the array isn't empty, it will only forward messages from the specified telegram user(s) [optionnal]
-- regexFiltersInclude : If the array isn't empty, it will only display the message if the regex(es) is found [optionnal]
-- regexFiltersExclude : If the array isn't empty, it won't display the message if the regex(es) is found [optionnal]
-- pingRoles : If the array isn't empty, it will ping every Discord role IDs present in it [optionnal] 
+- **name** : Used to bind custom functions and know what channel you're looking at in the config
+- **source_tg_channel_id** : The source ID of the Telegram channel you want to relay
+- **dest_tg_channel_id** : If you also want to forward messages to one or multiple telegram channels, you can specify it [optionnal]
+- **discord_webhook** : The Discord webhook URL to relay the message
+- **senders_ids** : If the array isn't empty, it will only forward messages from the specified telegram user(s) [optionnal]
+- **regexFiltersInclude** : If the array isn't empty, it will only display the message if the regex(es) is found [optionnal]
+- **regexFiltersExclude** : If the array isn't empty, it won't display the message if the regex(es) is found [optionnal]
+- **pingRoles** : If the array isn't empty, it will ping every Discord role IDs present in it [optionnal] 
 
 ## Useful informations
 
