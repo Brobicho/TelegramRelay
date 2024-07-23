@@ -3,7 +3,7 @@ Relay Telegram messages to Discord and Telegram (optionnal), using your own user
 
 ## Installation
 
-Register a Telegram app (here)[https://my.telegram.org/apps]
+Register a Telegram app [here](https://my.telegram.org/apps)
 Copy `.env.example` to `.env`
 Fill in your `API_ID` and `API_HASH` in .env
 Create a `relay_config.json` file and fill it in with the config you need (see below)
