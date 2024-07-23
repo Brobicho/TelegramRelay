@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Chinese calls",
+    "source_tg_channel_id": 1956264308,
+    "dest_tg_channel_ids": [
+      987654321
+    ],
+    "discord_webhook": "",
+    "senders_ids": [
+      517292541
+    ],
+    "regexFiltersInclude": [],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1257502718797414400"
+    ]
+  },
+  {
+    "name": "DSB Calls",
+    "source_tg_channel_id": 2048430394,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [
+      "\n\n"
+    ],
+    "regexFiltersExclude": [
+      "Call placed on:"
+    ],
+    "pingRoles": [
+      "1257508144008007761"
+    ]
+  },
+  {
+    "name": "DSB Low Market Cap",
+    "source_tg_channel_id": 2048430394,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [
+      "C:.*\nLP:.*\nM5:.*\n"
+    ],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1257508856742023250"
+    ]
+  },
+  {
+    "name": "DSB Snipes",
+    "source_tg_channel_id": 2048430394,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [
+      "Snipers:"
+    ],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1257509010786091009"
+    ]
+  },
+  {
+    "name": "DSB Risky Calls",
+    "source_tg_channel_id": 2048430394,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [
+      "Call placed on:"
+    ],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1257508784692002959"
+    ]
+  },
+  {
+    "name": "Pump Live Mints",
+    "source_tg_channel_id": 1871714582,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [],
+    "regexFiltersExclude": [],
+    "pingRoles": []
+  },
+  {
+    "name": "Cobra Calls",
+    "source_tg_channel_id": 2121499217,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1257509167409791057"
+    ]
+  },
+  {
+    "name": "PumpFun Promising Mints",
+    "source_tg_channel_id": 1871714582,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1258158847802085427"
+    ]
+  },
+  {
+    "name": "Gake's Bakes",
+    "source_tg_channel_id": 2040892468,
+    "dest_tg_channel_ids": [],
+    "discord_webhook": "",
+    "senders_ids": [],
+    "regexFiltersInclude": [],
+    "regexFiltersExclude": [],
+    "pingRoles": [
+      "1260520266677616671"
+    ]
+  }
+]
