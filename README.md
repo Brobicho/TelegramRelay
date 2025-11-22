@@ -1,5 +1,6 @@
-# tg-relay
-Relay Telegram messages to Discord and Telegram (optionnal), using your own user.
+# Telegram Message Relay
+
+Relay Telegram messages to Discord and/or Telegram, using your own user.
 
 ## Installation
 
