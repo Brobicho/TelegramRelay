@@ -1,3 +1,7 @@
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge) 
+![Status](https://img.shields.io/badge/status-operational-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-free-blue?style=for-the-badge)
+
 # Telegram Relay
 
 Relay any message coming from Telegram to Discord and/or Telegram
@@ -57,3 +61,7 @@ Relay any message coming from Telegram to Discord and/or Telegram
 - Forwarding (sending) to telgram is API-rate limited, reading isn't.
 - When creating your App, you can input any URL. This is only a placeholder.
 - If you want to quickly grab IDs from telegram, whether it's a user or a channel, enable developper mode and click on the entity. The ID will be displayed. You can also use the file `listchannels.py`, it will list the ID of every channel you're in.
+
+## License
+
+(c)opyleft Brobicho [2023] - Free to use, distribute and commercialize.
