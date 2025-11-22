@@ -4,10 +4,10 @@ Relay any message coming from Telegram to Discord and/or Telegram
 
 ## Installation
 
-Register a Telegram app [here](https://my.telegram.org/apps)
-Copy `.env.example` to `.env`
-Fill in your `API_ID` and `API_HASH` in .env
-Create a `relay_config.json` file and fill it in with the config you need (see below)
+1. Register a Telegram app [here](https://my.telegram.org/apps)
+2.  Copy `.env.example` to `.env`
+3.  Fill in your `API_ID` and `API_HASH` in .env
+4.  Create a `relay_config.json` file and fill it in with the config you need (see below)
 
 ## Configuration
 
